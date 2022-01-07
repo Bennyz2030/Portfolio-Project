@@ -5,6 +5,7 @@ img {
 
 .jumbotron {
   font-family:monospace;
+  text-shadow: 4px  4px 4px pink;
   text-align: center;
   margin: auto;
   margin-left: 7.5%;
@@ -55,4 +56,8 @@ body {
 
 ul {
   font-weight: bolder;
+}
+
+h2 {
+  text-shadow: 2px 2px 2px pink;
 }
