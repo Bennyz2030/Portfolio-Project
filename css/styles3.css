@@ -1,0 +1,31 @@
+img {
+  border:solid black;
+  width:90%;
+  float:left;
+  margin:10px;
+  padding: 5px;
+}
+ .important {
+   font-style: oblique;
+   font-weight: bold;
+ }
+
+ .row {
+   border:solid black;
+   margin:auto;
+   padding: 5px;
+   background-color: honeydew;
+ }
+
+ body {
+   background-image:url(../img/book.jpeg);
+ }
+
+ h1 {
+   text-align: center;
+   text-shadow: 2px 2px 2px slategray;
+ }
+
+ .nav-link {
+    color: antiquewhite;
+ }
